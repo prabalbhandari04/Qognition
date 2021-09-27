@@ -1,0 +1,19 @@
+.FileLayout{
+    width: 4em;
+    height: 4em;
+    /* margin:10px; */
+    padding-left:10px;
+    text-align: center;
+}
+.File{
+    padding-top:6px;
+    font-size:3em;
+    color:#2f2f69;
+    cursor: pointer;
+}
+
+.FileName{
+    margin:0 auto;
+    padding-left:10px;
+    font-size: 12px;
+}

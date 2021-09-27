@@ -1,0 +1,21 @@
+{
+  "short_name": "Qognition",
+  "name": "Qognition - Health at your finger tips",
+  "icons": [
+      {
+          "src": "/logo/logo.png",
+          "type": "image/png",
+          "sizes": "1024x1024"
+      },
+      {
+          "src": "/logo/maskable.png",
+          "sizes": "250x250",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6331d8",
+  "background_color": "white"
+}

@@ -1,0 +1,7 @@
+.background-banner {
+    background-color: #6331d8;
+    opacity: 0.8;
+    background-image: radial-gradient(#ffffff 0.5px, #6331d8 0.5px);
+    background-size: 10px 10px;
+}
+
